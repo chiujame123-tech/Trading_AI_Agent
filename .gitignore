@@ -1,0 +1,7 @@
+# 隱藏虛擬環境
+venv/
+env/
+__pycache__/
+
+# 隱藏未來嘅 API 鎖匙
+.env
